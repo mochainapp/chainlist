@@ -176,6 +176,8 @@ blockswap: "Blockswap RPC does not track any kind of user information at the bui
     "We do not collect any financial data. Other data may be collected by third parties; we are not responsible for the actions of third parties. We do not collect any Personal data other than the Personal data set out in this Policy: https://nownodes.io/assets/data/privacy-pol.pdf. ",
   Envelop:
     "We, Envelop, do not collect and/or process any personal data other than publicly available data.  Check out our privacy statement here: https://docs.envelop.is/legal/privacy-policy"	  
+  MO:
+    "As a core practice, we neither collect, store, nor process any personal information from our users. This policy of non-collection guarantees complete data security and privacy for our users. https://mochain.app/rpc-privacy-policy/"	
   };
 
 export const extraRpcs = {
